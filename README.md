@@ -11,6 +11,6 @@ Codefundo project built on idea of efficient management of aid resources to save
 
 #How does it work :
     1. Using ML based facial and voice sentiment analysis system to confirm the authenticity of the request.
-    2. Pulling out only the important words and composing a message from the input voice or text , which can be interpreted by the 911            authorities without wasting any time.
+    2. Pulling out only the important words(i.e. location & type of the calamity and aid needed as asked by the user) and composing a            message from the input voice or text , which can be interpreted by the 911 authorities without wasting any time.
     3. Composed message is sent over a signal having the best coverage in the area at the time of calamity.(Just like our phone makes            calls even in case of no signal)
     
